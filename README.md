@@ -17,6 +17,8 @@
 - **Extension**: a package or module that adds functionality to a Flask
   application that it does not have by default.
 - **Request**: an attempt by one machine to contact another over the internet.
+- **Client**: an application or machine that accesses services being provided
+  by a server through the internet.
 - **Web Server**: a combination of software and hardware that uses Hypertext
   Transfer Protocol (HTTP) and other protocols to respond to requests made
   over the internet.

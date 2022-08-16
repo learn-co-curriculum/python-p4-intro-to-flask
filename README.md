@@ -61,7 +61,7 @@ Flask was originally developed by [Armin Ronacher][armron] as an April Fool's
 joke in 2010. His goal was to make the smallest viable web framework and pitch
 it for use in production code. He leveraged some of his other projects in the
 process: [Werkzeug][werk] (German for "work stuff") as an interface between the
-application and server, [Jinja][jinja] to turn Python code into HTML, and now
+application and server, [Jinja][jinja] to turn Python code into HTML, and
 [Click][click], a CLI building tool that we mentioned at the end of Phase 3.
 
 Competing with the well-established and generally beloved Django, he felt that
@@ -73,9 +73,9 @@ with different styles of coding.
 
 Ronacher couldn't handle all of these requests himself, so he created [the
 Pallets Projects][pp] as a central location for Flask and his other projects.
-If you visit the homepage, you'll notice that the docs for Werkzeug, Jinja, and
-Click are available right there. This might be a useful page to bookmark, as
-most of the important documentation for Phase 4 is right there!
+If you visit the homepage, you'll see the docs for Werkzeug, Jinja, and Click.
+This might be a useful page to bookmark, as most of the important documentation
+for Phase 4 is right there!
 
 Because it is useful for small and large projects and a wide variety of tasks,
 Flask is now the most used Python web framework: It is used at Netflix, Reddit,

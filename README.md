@@ -117,7 +117,7 @@ Happy coding!
 - [Click Documentation][click]
 - [The Pallets Projects][pp]
 
-[flask]: (https://flask.palletsprojects.com/en/2.2.x/)
+[flask]: https://flask.palletsprojects.com/en/2.2.x/
 [armron]: (https://lucumr.pocoo.org/)
 [werk]: (https://palletsprojects.com/p/werkzeug/)
 [jinja]: (https://palletsprojects.com/p/jinja/)

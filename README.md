@@ -118,8 +118,8 @@ Happy coding!
 - [The Pallets Projects][pp]
 
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
-[armron]: (https://lucumr.pocoo.org/)
-[werk]: (https://palletsprojects.com/p/werkzeug/)
-[jinja]: (https://palletsprojects.com/p/jinja/)
-[click]: (https://palletsprojects.com/p/click/)
-[pp]: (https://palletsprojects.com/)
+[armron]: https://lucumr.pocoo.org/
+[werk]: https://palletsprojects.com/p/werkzeug/
+[jinja]: https://palletsprojects.com/p/jinja/
+[click]: https://palletsprojects.com/p/click/
+[pp]: https://palletsprojects.com/

@@ -95,7 +95,7 @@ In Phase 4, we will cover a number of topics in web development:
 - Application Programming Interfaces (APIs)
 - Retrieving Data from APIs
 - Building APIs with Flask
-- Restorative State Transfer (REST)
+- Representative State Transfer (REST)
 - Forms and Validations
 - Client-Server Communication
 - Serialization

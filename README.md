@@ -95,7 +95,7 @@ In Phase 4, we will cover a number of topics in web development:
 - Application Programming Interfaces (APIs)
 - Retrieving Data from APIs
 - Building APIs with Flask
-- Representative State Transfer (REST)
+- Representational State Transfer (REST)
 - Forms and Validations
 - Client-Server Communication
 - Serialization
@@ -110,12 +110,12 @@ Happy coding!
 
 ## Resources
 
-- [Flask Documentation][flask]
-- [Armin Ronacher][armron]
-- [Werkzeug Documentation][werk]
-- [Jinja Documentation][jinja]
-- [Click Documentation][click]
-- [The Pallets Projects][pp]
+- [User's Guide - Flask][flask]
+- [Armin Ronacher's Thoughts and Writings][armron]
+- [Werkzeug - The Pallets Projects][werk]
+- [Jinja - The Pallets Projects][jinja]
+- [Click - The Pallets Projects][click]
+- [Pallets - The Pallets Projects][pp]
 
 [flask]: (https://flask.palletsprojects.com/en/2.2.x/)
 [armron]: (https://lucumr.pocoo.org/)

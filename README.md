@@ -55,7 +55,7 @@ of these libraries- usually named _"Flask-Libraryname"_.)
 
 ## The History of Flask
 
-![Flask logo with text: "web development, one drop at a time"](https://curriculum-content.s3.amazonaws.com/python/1200px-Flask_logo.png "flask logo")
+![Flask logo with text: "web development, one drop at a time"](https://curriculum-content.s3.amazonaws.com/python/FlaskLogo.png "flask logo")
 
 Flask was originally developed by [Armin Ronacher][armron] as an April Fool's
 joke in 2010. His goal was to make the smallest viable web framework and pitch
